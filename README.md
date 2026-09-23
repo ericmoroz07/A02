@@ -1,6 +1,6 @@
 # A02
 
-PART 1: Directions on Using Webstorm.
+PART 1: Directions on Using Github and VS code.
 
 First-Time Setup
 1. Make a  ⁠GitHub account if you don’t already have one.
