@@ -35,18 +35,19 @@ After changing your files:
     Finished Part 1
 5. Click Commit.
 6. Click Sync Changes or Push.
+
 That sends your work from VS Code to GitHub.
 
 
-**Branch** - A separate version of a project where you can make changes without affecting the main version.
-**Clone**  – Make a copy of a GitHub repository on your computer.
-**Commit** -  Save a set of changes you made to your project.
-**Fetch**  – Check for and download new changes from GitHub without adding them to your current files.
-**GIT**   – A tool that tracks changes you make to your code.
-**Github** - A website where you can store and share Git projects online.
-**Merge**  – Combine changes from one branch with another branch.
-**Merge Conflict**  – When Git can’t automatically combine changes because the same part of a file was changed differently.
-**Push**   – Send your saved commits from your computer to GitHub.
-**Pull**   – Get the latest changes from GitHub and add them to your local project.
-**Remote**  – The online version/location of your repository, usually on GitHub.
-**Repository** – A project folder that contains your files and keeps track of their changes.
+1. **Branch** - A separate version of a project where you can make changes without affecting the main version.
+2. **Clone**  – Make a copy of a GitHub repository on your computer.
+3.**Commit** -  Save a set of changes you made to your project.
+4. **Fetch**  – Check for and download new changes from GitHub without adding them to your current files.
+5. **GIT**   – A tool that tracks changes you make to your code.
+6. **Github** - A website where you can store and share Git projects online.
+7. **Merge**  – Combine changes from one branch with another branch.
+8. **Merge Conflict**  – When Git can’t automatically combine changes because the same part of a file was changed differently.
+9. **Push**   – Send your saved commits from your computer to GitHub.
+10. **Pull**   – Get the latest changes from GitHub and add them to your local project.
+11. **Remote**  – The online version/location of your repository, usually on GitHub.
+12. **Repository** – A project folder that contains your files and keeps track of their changes.
